@@ -1,6 +1,8 @@
 # blocos-alternados
 Método para gerar o hietograma de projeto, tabela e graficos.
 
+Código em Pyhton e Matlab.
+
 * Tabela:
 
         índice  tempo(min)    i(mm/h)     p(mm)     ?p(mm)      ?p/t(mm/h)  índice ordenado   i(mm/h)
