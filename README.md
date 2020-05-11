@@ -17,5 +17,5 @@ Método para gerar o hietograma de projeto, gerando essa tabela e os graficos.
 
 * Gráficos:
 
-![foto1]({{site.baseurl}}post4-img1.png)
-![foto1]({{site.baseurl}}post4-img2.png)
+![foto1](blocos-alternados/post4-img1.png)
+![foto1]({blocos-alternados/post4-img2.png)
