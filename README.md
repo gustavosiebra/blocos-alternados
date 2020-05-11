@@ -1,5 +1,5 @@
 # blocos-alternados
-Método para gerar o hietograma de projeto, gerando essa tabela e os graficos.
+Método para gerar o hietograma de projeto, tabela e graficos.
 
 * Tabela:
 
